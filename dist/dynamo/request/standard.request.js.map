@@ -1,0 +1,1 @@
+{"version":3,"file":"standard.request.js","sourceRoot":"","sources":["../../../src/dynamo/request/standard.request.ts"],"names":[],"mappings":";;AAMA,wEAAyD;AACzD,iDAA4C;AAE5C;;;GAGG;AACH,qBAWE,SAAQ,0BAAwB;IAChC,YAAsB,eAAgC,EAAE,UAA+B;QACrF,KAAK,CAAC,eAAe,EAAE,UAAU,CAAC,CAAA;QAClC,IAAI,CAAC,MAAM,CAAC,SAAS,GAAG,sCAAY,CAAC,IAAI,CAAC,QAAQ,CAAC,CAAA;IACrD,CAAC;CACF;AAhBD,0CAgBC"}

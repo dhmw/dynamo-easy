@@ -1,0 +1,1 @@
+{"version":3,"file":"promise-delay.function.js","sourceRoot":"","sources":["../../../src/helper/promise-delay.function.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH;;;GAGG;AACH,MAAM,uBAA0B,QAAgB;IAC9C,OAAO,UAAC,GAAM;QACZ,OAAO,IAAI,OAAO,CAAC,UAAC,OAAO,EAAE,MAAM;YACjC,UAAU,CAAC,cAAM,OAAA,OAAO,CAAC,GAAG,CAAC,EAAZ,CAAY,EAAE,QAAQ,CAAC,CAAA;QAC1C,CAAC,CAAC,CAAA;IACJ,CAAC,CAAA;AACH,CAAC"}
